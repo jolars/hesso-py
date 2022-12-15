@@ -19,7 +19,7 @@ ext_modules = [
         "_hesso",
         sorted(glob("src/*.cpp")),
         define_macros=[("VERSION_INFO", __version__)],
-        include_dirs=["include/Eigen"],
+        include_dirs=["include"],
     ),
 ]
 
