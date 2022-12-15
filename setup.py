@@ -32,6 +32,7 @@ setup(
     description="Fast Lasso Paths",
     long_description="",
     ext_modules=ext_modules,
+    install_requires=["numpy"],
     extras_require={"test": "pytest"},
     # Currently, build_ext only provides an optional "highest supported C++
     # level" feature, but in the future it may provide more features.
