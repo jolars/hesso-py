@@ -1,9 +1,0 @@
-Metadata-Version: 2.1
-Name: hesso
-Version: 0.0.1
-Summary: Fast Lasso Paths
-Home-page: https://github.com/jolars/hesso
-Author: Johan Larsson
-Author-email: johanlarsson@outlook.com
-Provides-Extra: test
-License-File: LICENSE
